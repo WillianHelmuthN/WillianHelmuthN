@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-I'm interested in a wide variety of things, including system development. I don't have a specific focus on which technology to study; I believe the most practical one for developing efficient solutions is ideal for the given context. Actually, I find it a bit tedious to study a variety of languages, which is why I have always been interested in the fundamentals of logic. I've always enjoyed mathematics and see a similarity there. Besides that, AI has been another focus of mine. In fact, this text was translated by an AI. I've learned not only how to use them efficiently but also how to manage them. Yes, I understand how an AI works behind the scenes, including the programming logic, multiple tables, graphs, and specific data that must be managed with extreme precision for it to function even minimally well. But don't worry, this text was only translated by an AI, not produced by one. Due to the need for AI adjustments, I ended up improving my text production and correction skills because, after all, you have to know how to teach AI...
+I'm **Willian Helmuth**, and I'm interested in a wide variety of things, including system development. I believe in using the most practical technology for developing efficient solutions in any given context. My passion lies in the fundamentals of logic, and I've always enjoyed mathematics for its similarities.
 
-I am learning a wide variety of topics, considerably broader than my main interests. These range from international issues such as current politics and global relations to the behavior of different fuels within a combustion chamber (yes, I also like mechanics). However, today I strive to balance topics of interest with subjects I need to study. An obvious example is improving my English so that I can produce a text without the help of an AI to translate it...
+Artificial Intelligence (AI) is another focus of mine. This text was translated by an AI! I've learned how to use and manage AI effectively, understanding the programming logic, multiple tables, graphs, and specific data management required for it to function well. Rest assured, this text was only translated, not produced, by AI. This necessity led me to improve my text production and correction skills, as you need to know how to teach AI...
 
-I seek to collaborate not with a specific project but with many current needs present in our reality. My dedication is focused on developing projects that not only help many people but also intelligently solve problems in society as a whole. This is reflected in my repositories, where you can find an organization of mine called E-jobs...
+### What I'm Learning
 
-To get in touch with me, it's simple. My personal email is willianhelmuth@gmail.com, and my LinkedIn is [www.linkedin.com/in/willian-helmuth-b09840216](https://www.linkedin.com/in/willian-helmuth-b09840216).
+I'm constantly exploring new topics, ranging from international politics and global relations to the behavior of different fuels in a combustion chamber (yes, I also like mechanics). Nowadays, I balance my interests with necessary studies, like improving my English to produce texts without AI assistance.
+
+### Collaboration
+
+I'm open to collaborating on various projects that address current needs in our reality. My dedication is towards developing projects that help many people and intelligently solve societal problems. Check out my organization, **E-jobs**, among my repositories.
+
+### Get in Touch
+
+- **Email:** willianhelmuth@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/willian-helmuth-b09840216](https://www.linkedin.com/in/willian-helmuth-b09840216)
 
 ### Fun Facts
 
 - I can understand English very well but have difficulties expressing myself.
-- Because I like to study various subjects, I often have to delve into even more topics to understand them better or due to new doubts or curiosities...
+- My curiosity drives me to study a variety of subjects, leading to new questions and areas to explore...
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
